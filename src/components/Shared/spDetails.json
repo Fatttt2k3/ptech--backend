@@ -1,0 +1,35 @@
+{
+    "spDetails": [
+    {
+        "label": "Listing Title",
+        "name": "listingtitle",
+        "fieldType": "text",
+        "requires": true,
+        "column": 2,
+        "icon": "FaClipboardList"
+    },
+    {
+        "label": "Tagline",
+        "name": "tagline",
+        "fieldType": "text",
+        "column": 2,
+        "icon": "Fatag"
+    },
+    {
+        "label": "Original Pricce",
+        "name": "originalPrice",
+        "fieldType": "text",
+        "column": 1,
+        "icon": "FaMoneyBillAlt"
+    },
+    {
+        "label": "Category",
+        "name": "category",
+        "fieldType": "dropdown",
+        "option": ["Linh kien", "Thiet bi mang"] ,
+        "column": 1,
+        "icon": "FaMoneyBillAlt"
+    }
+
+
+]}
